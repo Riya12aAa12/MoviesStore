@@ -38,10 +38,10 @@ const Footer = () => {
                     <span className="icon">
                         <FaInstagram />
                     </span>
-                    <a className="icon" href="https://github.com/Komalraut2002" >
+                    <a className="icon" href="https://github.com/Riya12aAa12" >
                         <FaGithub style={{ color: 'white' }}/>
                     </a>
-                    <a className="icon" href="https://www.linkedin.com/in/komalkumari30">
+                    <a className="icon" href="https://www.linkedin.com/in/riya-kumari-202930221">
                         <FaLinkedin style={{ color: 'white' }}/>
                     </a>
                 </div>
